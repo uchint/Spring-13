@@ -1,0 +1,17 @@
+1. Several haarcascades are tried
+2. LEye and REye are written seperately
+
+3. Grid lines integrated
+4. Face/eye recognition is proper, apart from jerks of video frames in between
+5. Face centre logic implemented. Need to cross verify in all cases.
+6. Text is displayed as and when needed
+
+7. findEyeCenter integrated properly. But cvtranspose is crashing saying mismatch in width and height
+
+8. Working eyetrack. 
+9. Left/Right eye detection code is placed in a macro as the processing is taking lot of time.
+
+10. training code is integrated.
+11. some compilation 'extern' issues
+
+
